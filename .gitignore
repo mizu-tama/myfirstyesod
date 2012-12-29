@@ -1,6 +1,9 @@
 dist/
+cabal-dev/
 static/tmp/
 config/client_session_key.aes
 *.hi
 *.o
 *.sqlite3
+*~
+#*#
